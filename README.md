@@ -17,6 +17,7 @@ https://github.com/SwiftfulThinking
 - https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning
 - https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning
 
+
 ### ARKit / RealityKit
 - [ ] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4
@@ -38,3 +39,7 @@ https://github.com/SwiftfulThinking
 - [ ] https://github.com/scinfu/SwiftSoup
 
 ### UIKit and SwiftUI
+
+
+### ...
+https://github.com/kieranb662/PartitionKit
