@@ -25,7 +25,7 @@ Hyerlinks: Phone, Mail, Web.. MessageUI
 ### ARKit / RealityKit
 - [ ] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4 (Issue is known)
-- [ ] https://github.com/maxxfrazer/ARKit-FocusNode // Currently not working with Siwft Playgrounds 4 (Issue is unknown)
+- [ ] https://github.com/maxxfrazer/ARKit-FocusNode // Currently not working with Siwft Playgrounds 4 (Working sometimes)
 - [ ] https://github.com/riccqi/ARImageTracking // "inGroupNamed: "AR Resources"" not possible in Swift Playgrounds 4
 ```
    func makeUIView(context: Context) -> ARView {
