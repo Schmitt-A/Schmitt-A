@@ -20,6 +20,14 @@ https://github.com/SwiftfulThinking
 ### ARKit / RealityKit
 - [ ] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4
+- [ ] https://github.com/riccqi/ARImageTracking // "inGroupNamed: "AR Resources"" not possible in Swift Playgrounds 4
+```
+   func makeUIView(context: Context) -> ARView {
+        guard let referenceImages = ARReferenceImage.referenceImages(
+                    inGroupNamed: "AR Resources", bundle: nil) else {
+                    fatalError("Missing expected asset catalog resources.")
+                }
+```
 
 ### Wordpress
 - [x] https://github.com/tkoehlerlg/SwiftUIWPArticleLoader
