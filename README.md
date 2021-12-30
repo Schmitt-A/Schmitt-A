@@ -1,21 +1,20 @@
-- 👋 Hi, I’m @Schmitt-A
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Schmitt-A/Schmitt-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-## SwiftUI and Swift Playgrounds 4
+# SwiftUI and Swift Playgrounds 4
 
 ### Basics
+https://developer.apple.com/tutorials/swiftui
 https://github.com/SwiftfulThinking
 - https://github.com/SwiftfulThinking/SwiftUI-Bootcamp
 - https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning
 - https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning
+https://github.com/ivanvorobei/SwiftUI
+https://github.com/vlondon/awesome-swiftui
+https://github.com/onmyway133/awesome-swiftui
+https://github.com/antranapp/SwiftUIMindBlowing
+
+
+
+
+
 
 Hyerlinks: Phone, Mail, Web.. MessageUI / SafariView
 
@@ -46,6 +45,9 @@ Offline / Online Resources
 ```
 
 ### MapKit
+- [x] https://www.hackingwithswift.com/books/ios-swiftui/integrating-mapkit-with-swiftui
+- [ ] 
+
 Directions
 Marker
 YoutubeVideos:
@@ -62,4 +64,7 @@ YoutubeVideos:
 
 
 ### ...
-https://github.com/kieranb662/PartitionKit
+- [x] https://github.com/kieranb662/PartitionKit
+- [x] https://github.com/Jake-Short/swiftui-image-viewer
+- [ ] https://github.com/smartvipere75/bottombar-swiftui
+
