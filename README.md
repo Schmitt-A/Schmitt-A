@@ -66,11 +66,11 @@ YoutubeVideos:
 ### ...
 - [x] https://github.com/kieranb662/PartitionKit
 - [x] https://github.com/Jake-Short/swiftui-image-viewer
+- [x] https://github.com/ivanvorobei/SPPermissions
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 
 
 
 ToDo:
-https://github.com/ivanvorobei/SPPermissions
-https://github.com/swiftui-lab/swiftui-hero-animations
-https://github.com/swiftui-lab/GridTrainer
+- https://github.com/swiftui-lab/swiftui-hero-animations
+- https://github.com/swiftui-lab/GridTrainer
