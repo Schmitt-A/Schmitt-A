@@ -68,6 +68,8 @@ YoutubeVideos:
 - [x] https://github.com/Jake-Short/swiftui-image-viewer
 - [x] https://github.com/ivanvorobei/SPPermissions
 - [x] https://github.com/ivanvorobei/SPConfetti
+- [x] https://github.com/ivanvorobei/SPAlert
+- [x] https://github.com/ivanvorobei/SPIndicator
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 
 
