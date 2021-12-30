@@ -1,6 +1,7 @@
 # SwiftUI and Swift Playgrounds 4
 
 ### Basics
+https://developer.apple.com/tutorials/sample-apps
 https://developer.apple.com/tutorials/swiftui
 https://github.com/SwiftfulThinking
 - https://github.com/SwiftfulThinking/SwiftUI-Bootcamp
@@ -10,6 +11,13 @@ https://github.com/ivanvorobei/SwiftUI
 https://github.com/vlondon/awesome-swiftui
 https://github.com/onmyway133/awesome-swiftui
 https://github.com/antranapp/SwiftUIMindBlowing
+https://github.com/Jinxiansen/SwiftUI
+https://github.com/chinsyo/awesome-swiftui
+https://fuckingswiftui.com
+https://github.com/Juanpe/About-SwiftUI
+
+
+
 
 
 
@@ -70,6 +78,7 @@ YoutubeVideos:
 - [x] https://github.com/ivanvorobei/SPConfetti
 - [x] https://github.com/ivanvorobei/SPAlert
 - [x] https://github.com/ivanvorobei/SPIndicator
+- [x] https://github.com/AppPear/ChartView
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 
 
