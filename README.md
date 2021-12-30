@@ -68,3 +68,9 @@ YoutubeVideos:
 - [x] https://github.com/Jake-Short/swiftui-image-viewer
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 
+
+
+ToDo:
+https://github.com/ivanvorobei/SPPermissions
+https://github.com/swiftui-lab/swiftui-hero-animations
+https://github.com/swiftui-lab/GridTrainer
