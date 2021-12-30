@@ -14,6 +14,7 @@ https://github.com/antranapp/SwiftUIMindBlowing
 https://github.com/Jinxiansen/SwiftUI
 https://github.com/chinsyo/awesome-swiftui
 https://fuckingswiftui.com
+https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 https://github.com/Juanpe/About-SwiftUI
 
 
@@ -85,8 +86,14 @@ YoutubeVideos:
 - [x] https://github.com/AppPear/ChartView
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 
+### Animations
+https://github.com/Shubham0812/SwiftUI-Animations
+https://github.com/amosgyamfi/swiftui-animation-library
+https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96 (https://github.com/airbnb/lottie-ios)
 
 
 ToDo:
 - https://github.com/swiftui-lab/swiftui-hero-animations
 - https://github.com/swiftui-lab/GridTrainer
+- https://github.com/swiftmumbai/chatkit
+- 
