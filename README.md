@@ -68,6 +68,10 @@ YoutubeVideos:
 - [x] https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning/blob/main/SwiftfulThinkingContinuedLearning/DownloadWithCombine.swift
 - [ ] https://github.com/scinfu/SwiftSoup
 
+### LaTeX / MathML
+...
+...
+
 ### UIKit and SwiftUI
 
 
