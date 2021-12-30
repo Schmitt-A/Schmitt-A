@@ -67,6 +67,7 @@ YoutubeVideos:
 - [x] https://github.com/kieranb662/PartitionKit
 - [x] https://github.com/Jake-Short/swiftui-image-viewer
 - [x] https://github.com/ivanvorobei/SPPermissions
+- [x] https://github.com/ivanvorobei/SPConfetti
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 
 
