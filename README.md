@@ -17,9 +17,19 @@ https://github.com/SwiftfulThinking
 - https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning
 - https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning
 
-Hyerlinks: Phone, Mail, Web.. MessageUI
+Hyerlinks: Phone, Mail, Web.. MessageUI / SafariView
 
+### Hyperlinks / Links
 
+#### Phone
+
+#### Mail / MessageUI
+
+#### SFSafariViewController
+https://newbedev.com/how-do-i-use-sfsafariviewcontroller-with-swiftui
+
+### WebKit
+Offline / Online Resources
 
 
 ### ARKit / RealityKit
