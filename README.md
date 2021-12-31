@@ -17,6 +17,8 @@ https://fuckingswiftui.com
 https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 https://github.com/Juanpe/About-SwiftUI
 https://github.com/jVirus/ios-learning-materials
+https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+
 
 
 
