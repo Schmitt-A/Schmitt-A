@@ -50,6 +50,8 @@ Offline / Online Resources
 
 ### ARKit / RealityKit
 - [ ] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
+- [ ] https://developer.apple.com/augmented-reality/quick-look/
+- [ ] https://developer.apple.com/documentation/arkit/previewing_a_model_with_ar_quick_look
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4 (Issue is known)
 - [ ] https://github.com/maxxfrazer/ARKit-FocusNode // Currently not working with Siwft Playgrounds 4 (Working sometimes // UIKit?)
 - [ ] https://github.com/ynagatomo/ARQLSanta (but no *.rcproject Files in Swift Playgrounds 4)
