@@ -19,6 +19,7 @@ https://github.com/Juanpe/About-SwiftUI
 https://github.com/jVirus/ios-learning-materials
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 https://github.com/anupamchugh
+https://github.com/john-rocky
 
 
 
@@ -53,11 +54,15 @@ Offline / Online Resources
 ### ARKit / RealityKit
 - [x] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/ (without Focus Entity)
 - [x] https://github.com/mgipson/AR-SwiftUI (Start AR View)
+- [x] https://rockyshikoku.medium.com/the-reference-book-of-realitykit-cf9babb86dd#c885
 
 
 - [ ] https://developer.apple.com/augmented-reality/quick-look/
 - [ ] https://developer.apple.com/documentation/arkit/previewing_a_model_with_ar_quick_look
 - [ ] https://developer.apple.com/forums/thread/126377
+
+
+https://github.com/john-rocky/RealityKit-Sampler
 
 
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4 (Issue is known)
