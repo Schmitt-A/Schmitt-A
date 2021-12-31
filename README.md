@@ -18,6 +18,8 @@ https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 https://github.com/Juanpe/About-SwiftUI
 https://github.com/jVirus/ios-learning-materials
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+https://github.com/anupamchugh
+
 
 
 
@@ -106,6 +108,7 @@ YoutubeVideos:
 - [x] https://github.com/AppPear/ChartView
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
+- [ ] https://github.com/pvieito/PythonKit
 
 ### Animations
 https://github.com/Shubham0812/SwiftUI-Animations
