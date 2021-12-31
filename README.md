@@ -44,6 +44,10 @@ https://newbedev.com/how-do-i-use-sfsafariviewcontroller-with-swiftui
 Offline / Online Resources
 
 
+### SceneKit
+- [x] https://kavsoft.dev/swiftui_2.0_3d_objects
+
+
 ### ARKit / RealityKit
 - [ ] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4 (Issue is known)
