@@ -72,8 +72,13 @@ YoutubeVideos:
 - [ ] https://github.com/scinfu/SwiftSoup
 
 ### LaTeX / MathML
-...
-...
+- [x] https://github.com/dwarvesf/CodeViewer
+- [ ] https://github.com/kostub/iosMath (no SwiftUI / Swift-Package)
+- [ ] https://github.com/1Fr3dG/LatexView (no Swift-Package)
+- [ ] https://github.com/axmav/SVLatexView (no Swift-Package)
+- [ ] https://github.com/tophat/RichTextView.git (no Swift-Package)
+- [ ] https://github.com/tiborsimon/ios-local-mathjax-template (UIKit / ???)
+
 
 ### UIKit and SwiftUI
 
