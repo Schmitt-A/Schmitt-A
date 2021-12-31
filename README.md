@@ -73,6 +73,7 @@ YoutubeVideos:
 
 ### LaTeX / MathML
 - [x] https://github.com/dwarvesf/CodeViewer
+- [x] Using WebKit: https://stackoverflow.com/questions/65090289/how-can-i-create-a-math-formula-text-view-with-latex-in-swiftui?rq=1 
 - [ ] https://github.com/kostub/iosMath (no SwiftUI / Swift-Package)
 - [ ] https://github.com/1Fr3dG/LatexView (no Swift-Package)
 - [ ] https://github.com/axmav/SVLatexView (no Swift-Package)
