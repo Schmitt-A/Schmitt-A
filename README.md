@@ -104,6 +104,7 @@ ToDo:
 - https://github.com/swiftui-lab/swiftui-hero-animations
 - https://github.com/swiftui-lab/GridTrainer
 - https://github.com/swiftmumbai/chatkit
+- https://github.com/AudioKit/Cookbook
 - 
 
 
