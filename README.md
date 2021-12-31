@@ -51,7 +51,10 @@ Offline / Online Resources
 
 
 ### ARKit / RealityKit
-- [ ] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
+- [x] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/ (without Focus Entity)
+- [x] https://github.com/mgipson/AR-SwiftUI (Start AR View)
+
+
 - [ ] https://developer.apple.com/augmented-reality/quick-look/
 - [ ] https://developer.apple.com/documentation/arkit/previewing_a_model_with_ar_quick_look
 - [ ] https://developer.apple.com/forums/thread/126377
