@@ -93,6 +93,7 @@ YoutubeVideos:
 - [x] https://github.com/ivanvorobei/SPIndicator
 - [x] https://github.com/AppPear/ChartView
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
+- [ ] https://github.com/jboullianne/BasicThemeKit
 
 ### Animations
 https://github.com/Shubham0812/SwiftUI-Animations
