@@ -105,3 +105,8 @@ ToDo:
 - https://github.com/swiftui-lab/GridTrainer
 - https://github.com/swiftmumbai/chatkit
 - 
+
+
+
+- [x] https://github.com/SAP/cloud-sdk-ios-fiori/ (with Errors)
+- [ ] https://github.com/SAP/cloud-sdk-ios-fiori-ar/
