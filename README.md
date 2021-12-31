@@ -119,9 +119,9 @@ YoutubeVideos:
 - [ ] https://github.com/pvieito/PythonKit
 
 ### Animations
-https://github.com/Shubham0812/SwiftUI-Animations
-https://github.com/amosgyamfi/swiftui-animation-library
-https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96 (https://github.com/airbnb/lottie-ios)
+- [ ] https://github.com/Shubham0812/SwiftUI-Animations
+- [ ] https://github.com/amosgyamfi/swiftui-animation-library
+- [x] https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96 (https://github.com/airbnb/lottie-ios)
 
 
 ToDo:
