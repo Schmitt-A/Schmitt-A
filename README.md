@@ -70,6 +70,7 @@ Offline / Online Resources
 
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4 (Issue is known)
 - [ ] https://github.com/maxxfrazer/ARKit-FocusNode // Currently not working with Siwft Playgrounds 4 (Working sometimes // UIKit?)
+- [ ] https://betterprogramming.pub/how-to-use-a-swiftui-view-in-anarkit-scenekit-app-d6504d7b92d2
 - [ ] https://github.com/ynagatomo/ARQLSanta (but no *.rcproject Files in Swift Playgrounds 4)
 - [ ] https://github.com/riccqi/ARImageTracking // "inGroupNamed: "AR Resources"" not possible in Swift Playgrounds 4
 ```
