@@ -20,7 +20,7 @@ https://github.com/jVirus/ios-learning-materials
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 https://github.com/anupamchugh
 https://github.com/john-rocky
-
+https://youtube.com/c/SeanAllen
 
 
 
@@ -79,7 +79,8 @@ Offline / Online Resources
 
 ### MapKit
 - [x] https://www.hackingwithswift.com/books/ios-swiftui/integrating-mapkit-with-swiftui
-- [ ] 
+- [x] https://youtu.be/P6ZUiH1IZlQ
+
 
 Directions
 Marker
