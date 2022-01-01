@@ -143,3 +143,10 @@ ToDo:
 
 - [x] https://github.com/SAP/cloud-sdk-ios-fiori/ (with Errors)
 - [ ] https://github.com/SAP/cloud-sdk-ios-fiori-ar/
+
+
+### Playgrounds // WWDC 2021 Swift Student Challenge Submissions
+https://github.com/devjoseadolfo/2021
+https://github.com/devjoseadolfo/CircuitPlay
+https://github.com/devjoseadolfo/LearnWithAR
+
