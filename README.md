@@ -59,6 +59,7 @@ Offline / Online Resources
 - [x] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/ (without Focus Entity)
 - [x] https://github.com/mgipson/AR-SwiftUI (Start AR View)
 - [x] https://rockyshikoku.medium.com/the-reference-book-of-realitykit-cf9babb86dd#c885
+- [ ] https://github.com/maxxfrazer/RealityKit-CardFlip
 - [ ] https://github.com/john-rocky/RealityKit-Sampler
 - [x] https://youtube.com/c/realityschool
 
