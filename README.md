@@ -116,6 +116,7 @@ YoutubeVideos:
 - [x] https://github.com/ivanvorobei/SPAlert
 - [x] https://github.com/ivanvorobei/SPIndicator
 - [x] https://github.com/AppPear/ChartView
+- [x] https://github.com/onevcat/Kingfisher
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
