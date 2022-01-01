@@ -132,10 +132,10 @@ YoutubeVideos:
 - [ ] https://github.com/Shubham0812/SwiftUI-Animations
 - [ ] https://github.com/amosgyamfi/swiftui-animation-library
 - [x] https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96 (https://github.com/airbnb/lottie-ios)
+- [x] https://github.com/swiftui-lab/swiftui-hero-animations
 
 
 ToDo:
-- https://github.com/swiftui-lab/swiftui-hero-animations
 - https://github.com/swiftui-lab/GridTrainer
 - https://github.com/swiftmumbai/chatkit
 - https://github.com/AudioKit/Cookbook
