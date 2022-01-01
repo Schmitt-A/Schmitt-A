@@ -108,6 +108,7 @@ YoutubeVideos:
 - [ ] https://github.com/axmav/SVLatexView (no Swift-Package)
 - [ ] https://github.com/tophat/RichTextView.git (no Swift-Package)
 - [ ] https://github.com/tiborsimon/ios-local-mathjax-template (UIKit / ???)
+- [x] https://github.com/canbalkaya/TextField-for-Numbers-in-SwiftUI
 
 
 ### UIKit and SwiftUI
