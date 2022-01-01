@@ -123,6 +123,7 @@ YoutubeVideos:
 - [x] https://github.com/ivanvorobei/SPIndicator
 - [x] https://github.com/AppPear/ChartView
 - [x] https://github.com/onevcat/Kingfisher
+- [x] https://github.com/exyte/PopupView
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
