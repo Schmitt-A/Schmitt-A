@@ -1,16 +1,19 @@
 # SwiftUI and Swift Playgrounds 4
 
 ### Basics
-https://developer.apple.com/tutorials/sample-apps
-https://developer.apple.com/tutorials/swiftui
-https://github.com/SwiftfulThinking
-- https://github.com/SwiftfulThinking/SwiftUI-Bootcamp
-- https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning
-- https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning
-https://github.com/twostraws/HackingWithSwift
-https://github.com/ivanvorobei/SwiftUI
-https://github.com/vlondon/awesome-swiftui
-https://github.com/onmyway133/awesome-swiftui
+- [ SwiftUI](https://developer.apple.com/tutorials/swiftui)
+- [ Sample Apps](https://developer.apple.com/tutorials/sample-apps)
+- [SwiftfulThinking](https://github.com/SwiftfulThinking) : [Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp), [Continued-Learning](https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning) and [Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)
+- [/twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift)
+- [/ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI)
+- [/vlondon/awesome-swiftui](https://github.com/vlondon/awesome-swiftui)
+- [/onmyway133/awesome-swiftui](https://github.com/onmyway133/awesome-swiftui)
+
+
+
+
+
+
 https://github.com/antranapp/SwiftUIMindBlowing
 https://github.com/Jinxiansen/SwiftUI
 https://github.com/chinsyo/awesome-swiftui
