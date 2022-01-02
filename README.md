@@ -124,7 +124,7 @@ YoutubeVideos:
 - [x] https://github.com/AppPear/ChartView
 - [x] https://github.com/onevcat/Kingfisher
 - [x] https://github.com/exyte/PopupView
-- [x] https://github.com/AudioKit/AudioKit/ + https://github.com/AudioKit/AudioKitUI
+- [ ] https://github.com/AudioKit/AudioKit/ + https://github.com/AudioKit/AudioKitUI + https://github.com/AudioKit/AudioKitEX + https://github.com/AudioKit/Cookbook "Der Zyieltyp "ClangTarget" wird nicht unterstützt."
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
@@ -139,8 +139,6 @@ YoutubeVideos:
 ToDo:
 - https://github.com/swiftui-lab/GridTrainer
 - https://github.com/swiftmumbai/chatkit
-- https://github.com/AudioKit/Cookbook
-- 
 
 
 
