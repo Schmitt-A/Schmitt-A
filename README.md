@@ -144,6 +144,8 @@ ToDo:
 - https://github.com/swiftmumbai/chatkit
 - https://github.com/mythxn/DesignCode-SwiftUI
 
+https://github.com/Inncoder/SwiftUI-Animations
+
 
 
 - [x] https://github.com/SAP/cloud-sdk-ios-fiori/ (with Errors)
