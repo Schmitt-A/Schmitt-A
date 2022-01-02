@@ -124,7 +124,7 @@ YoutubeVideos:
 - [x] https://github.com/AppPear/ChartView
 - [x] https://github.com/onevcat/Kingfisher
 - [x] https://github.com/exyte/PopupView
-- [ ] https://github.com/AudioKit/AudioKit/ + https://github.com/AudioKit/AudioKitUI + https://github.com/AudioKit/AudioKitEX + https://github.com/AudioKit/Cookbook "Der Zyieltyp "ClangTarget" wird nicht unterstützt."
+- [ ] https://github.com/AudioKit/AudioKit/ + https://github.com/AudioKit/AudioKitUI + https://github.com/AudioKit/AudioKitEX + https://github.com/AudioKit/Cookbook >"Der Zyieltyp "ClangTarget" wird nicht unterstützt."
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
@@ -147,7 +147,11 @@ ToDo:
 
 
 ### Playgrounds // WWDC 2021 Swift Student Challenge Submissions
-https://github.com/devjoseadolfo/2021
-https://github.com/devjoseadolfo/CircuitPlay
-https://github.com/devjoseadolfo/LearnWithAR
+- [WWDC2021](https://github.com/devjoseadolfo/2021)
+- [CircuitPlay](https://github.com/devjoseadolfo/CircuitPlay)
+- [LearnWithAR](https://github.com/devjoseadolfo/LearnWithAR)
+- ...
+
+
+
 
