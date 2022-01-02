@@ -124,7 +124,7 @@ YoutubeVideos:
 - [x] https://github.com/AppPear/ChartView
 - [x] https://github.com/onevcat/Kingfisher
 - [x] https://github.com/exyte/PopupView
-- [x] https://github.com/AudioKit/AudioKit/ + 
+- [x] https://github.com/AudioKit/AudioKit/ + https://github.com/AudioKit/AudioKitUI
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
