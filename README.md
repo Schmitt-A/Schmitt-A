@@ -146,6 +146,8 @@ ToDo:
 
 https://github.com/Inncoder/SwiftUI-Animations
 
+https://github.com/younatics/MotionBook
+
 
 
 - [x] https://github.com/SAP/cloud-sdk-ios-fiori/ (with Errors)
