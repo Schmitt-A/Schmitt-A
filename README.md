@@ -132,6 +132,9 @@ YoutubeVideos:
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
 
+
+- [x] https://trailingclosure.com/custom-swiftui-toggles/
+
 ### Animations
 - [ ] https://github.com/Shubham0812/SwiftUI-Animations
 - [ ] https://github.com/amosgyamfi/swiftui-animation-library
