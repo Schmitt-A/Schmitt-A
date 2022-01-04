@@ -75,7 +75,7 @@ Offline / Online Resources
 - [ ] https://developer.apple.com/documentation/arkit/previewing_a_model_with_ar_quick_look
 - [ ] https://developer.apple.com/forums/thread/126377
 
-
+https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2
 
 - [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4 (Issue is known)
 - [ ] https://github.com/maxxfrazer/ARKit-FocusNode // Currently not working with Siwft Playgrounds 4 (Working sometimes // UIKit?)
