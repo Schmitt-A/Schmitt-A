@@ -24,6 +24,7 @@ https://github.com/jVirus/ios-learning-materials
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 https://github.com/anupamchugh
 https://github.com/john-rocky
+https://www.ralfebert.de/blog/
 
 https://github.com/eren-celik
 
