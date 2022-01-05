@@ -145,6 +145,7 @@ YoutubeVideos:
 - [ ] https://github.com/amosgyamfi/swiftui-animation-library
 - [x] https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96 (https://github.com/airbnb/lottie-ios)
 - [x] https://github.com/swiftui-lab/swiftui-hero-animations
+- [x] https://github.com/raywenderlich/video-swa-materials
 
 
 ToDo:
