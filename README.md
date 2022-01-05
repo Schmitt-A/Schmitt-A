@@ -40,7 +40,8 @@ https://youtube.com/c/CredoAcademy
 
 https://www.reddit.com/r/SwiftUI/
 
-
+https://www.simpleswiftguide.com/archives/
+https://blckbirds.com/swiftui-tutorials/
 
 
 Hyerlinks: Phone, Mail, Web.. MessageUI / SafariView
