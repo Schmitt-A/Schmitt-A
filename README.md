@@ -44,6 +44,8 @@ https://www.simpleswiftguide.com/archives/
 https://blckbirds.com/swiftui-tutorials/
 https://betterprogramming.pub/tagged/swiftui
 
+### Parallax and Stretchy Header
+https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
 
 
 Hyerlinks: Phone, Mail, Web.. MessageUI / SafariView
