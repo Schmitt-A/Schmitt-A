@@ -42,6 +42,8 @@ https://www.reddit.com/r/SwiftUI/
 
 https://www.simpleswiftguide.com/archives/
 https://blckbirds.com/swiftui-tutorials/
+https://betterprogramming.pub/tagged/swiftui
+
 
 
 Hyerlinks: Phone, Mail, Web.. MessageUI / SafariView
