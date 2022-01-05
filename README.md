@@ -38,7 +38,7 @@ https://www.bigmountainstudio.com
 https://youtube.com/c/CredoAcademy
 
 
-
+https://www.reddit.com/r/SwiftUI/
 
 
 
@@ -135,7 +135,7 @@ YoutubeVideos:
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
-- [ ] https://github.com/badrinathvm/StepperView/
+- [x] https://github.com/badrinathvm/StepperView/
 
 
 - [x] https://trailingclosure.com/custom-swiftui-toggles/
