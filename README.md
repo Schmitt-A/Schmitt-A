@@ -138,6 +138,7 @@ YoutubeVideos:
 - [x] https://github.com/badrinathvm/StepperView/
 - [x] https://github.com/joogps/SlideOverCard
 - [x] https://github.com/nerdsupremacist/FancyScrollView
+- [x] https://github.com/aunnnn/MovingNumbersView
 
 
 - [x] https://trailingclosure.com/custom-swiftui-toggles/
