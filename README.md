@@ -69,7 +69,8 @@ Offline / Online Resources
 
 
 ### ARKit / RealityKit
-- [x] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/ (without Focus Entity)
+- [x] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
+- [x] https://github.com/maxxfrazer/FocusEntity (Focus Entity)
 - [x] https://github.com/mgipson/AR-SwiftUI (Start AR View)
 - [x] https://rockyshikoku.medium.com/the-reference-book-of-realitykit-cf9babb86dd#c885
 - [ ] https://github.com/maxxfrazer/RealityKit-CardFlip
@@ -83,7 +84,7 @@ Offline / Online Resources
 
 https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2
 
-- [ ] https://github.com/maxxfrazer/FocusEntity // Currently not working with Swift Playgrounds 4 (Issue is known)
+
 - [ ] https://github.com/maxxfrazer/ARKit-FocusNode // Currently not working with Siwft Playgrounds 4 (Working sometimes // UIKit?)
 - [ ] https://betterprogramming.pub/how-to-use-a-swiftui-view-in-anarkit-scenekit-app-d6504d7b92d2
 - [ ] https://github.com/ynagatomo/ARQLSanta (but no *.rcproject Files in Swift Playgrounds 4)
