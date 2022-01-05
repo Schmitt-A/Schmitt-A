@@ -135,6 +135,7 @@ YoutubeVideos:
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
+- [ ] https://github.com/badrinathvm/StepperView/
 
 
 - [x] https://trailingclosure.com/custom-swiftui-toggles/
