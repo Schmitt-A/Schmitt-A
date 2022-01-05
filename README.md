@@ -13,7 +13,7 @@
 https://github.com/raywenderlich/sui-materials
 
 
-
+https://github.com/bbaars
 https://github.com/antranapp/SwiftUIMindBlowing
 https://github.com/Jinxiansen/SwiftUI
 https://github.com/chinsyo/awesome-swiftui
@@ -44,8 +44,9 @@ https://www.simpleswiftguide.com/archives/
 https://blckbirds.com/swiftui-tutorials/
 https://betterprogramming.pub/tagged/swiftui
 
-### Parallax and Stretchy Header
+### Parallax / Stretchy Header / Sticky Header
 https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
+https://medium.com/swlh/swiftui-create-a-stretchable-header-with-parallax-scrolling-4a98faeeb262
 
 
 Hyerlinks: Phone, Mail, Web.. MessageUI / SafariView
