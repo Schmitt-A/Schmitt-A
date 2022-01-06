@@ -161,6 +161,7 @@ YoutubeVideos:
 - [ ] https://github.com/smartvipere75/bottombar-swiftui
 - [ ] https://github.com/jboullianne/BasicThemeKit
 - [ ] https://github.com/pvieito/PythonKit
+- [x] https://github.com/ukitomato/EyeTrackKit
 - [x] https://github.com/badrinathvm/StepperView/
 - [x] https://github.com/joogps/SlideOverCard
 - [x] https://github.com/nerdsupremacist/FancyScrollView
