@@ -1,11 +1,13 @@
 # SwiftUI and Swift Playgrounds 4
 
-### Basics
+# Basics
 - [ SwiftUI](https://developer.apple.com/tutorials/swiftui)
 - [ Sample Apps](https://developer.apple.com/tutorials/sample-apps)
 
+## Exampels
 - [SwiftfulThinking](https://github.com/SwiftfulThinking) : [Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp), [Continued-Learning](https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning) and [Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)
 - [/twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift)
+
 - [/ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI)
 - [/vlondon/awesome-swiftui](https://github.com/vlondon/awesome-swiftui)
 - [/onmyway133/awesome-swiftui](https://github.com/onmyway133/awesome-swiftui)
@@ -17,6 +19,7 @@
 - [/Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 - [/jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials)
 
+## User
 - [/bbaars/](https://github.com/bbaars/)
 - [/anupamchugh/](https://github.com/anupamchugh/)
 - [/john-rocky/](https://github.com/john-rocky/)
@@ -24,61 +27,73 @@
 - [/twostraws/](https://github.com/twostraws/)
 
 
-
-https://fuckingswiftui.com
-
-
-
-https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
-
-
-https://www.ralfebert.de/blog/
-
-
-
-https://youtube.com/c/SeanAllen
-
 https://github.com/rohid-hub?tab=repositories&q=&type=&language=swift&sort=
 https://github.com/onevcat?tab=repositories&q=&type=&language=swift&sort=
 
-https://www.bigmountainstudio.com
 
-https://youtube.com/c/CredoAcademy
+## Links
+https://www.hackingwithswift.com/
+https://www.swiftbysundell.com/
+https://www.avanderlee.com/
+https://talk.objc.io/
 
-
-https://www.reddit.com/r/SwiftUI/
+https://fuckingswiftui.com
+https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+https://www.ralfebert.de/blog/
 
 https://www.simpleswiftguide.com/archives/
 https://blckbirds.com/swiftui-tutorials/
 https://betterprogramming.pub/tagged/swiftui
 
+## Links (2)
+https://www.pointfree.co/
+https://www.raywenderlich.com/
+https://www.bigmountainstudio.com
+https://codewithchris.com/
 
 
-### Parallax / Stretchy Header / Sticky Header
+## Videos
+https://youtube.com/c/SeanAllen
+https://youtube.com/c/CredoAcademy
+https://www.youtube.com/c/CodeWithChris/
+
+
+## Social Media
+Twitter: @twostraws, @johnsundell, @twannl, @DonnyWals, @pointfreeco, @rwenderlich
+Reddit: https://www.reddit.com/r/SwiftUI/
+Instagram
+Reddit
+TikTok
+
+
+---------------------------------------------------------------
+
+# Resources
+
+## Parallax / Stretchy Header / Sticky Header
 https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
 https://medium.com/swlh/swiftui-create-a-stretchable-header-with-parallax-scrolling-4a98faeeb262
 
 
-Hyerlinks: Phone, Mail, Web.. MessageUI / SafariView
+## Hyperlinks
+Phone
+Mail
+Web
 
-### Hyperlinks / Links
 
-#### Phone
+## MessageUI and SafariView (WebKit)
 
-#### Mail / MessageUI
-
-#### SFSafariViewController
+SFSafariViewController
 https://newbedev.com/how-do-i-use-sfsafariviewcontroller-with-swiftui
 
-### WebKit
+WebKit
 Offline / Online Resources
 
 
-### SceneKit
+## SceneKit
 - [x] https://kavsoft.dev/swiftui_2.0_3d_objects
 
-
-### ARKit / RealityKit
+## ARKit / RealityKit
 - [x] https://www.ralfebert.de/ios/realitykit-wuerfel-tutorial/
 - [x] https://github.com/maxxfrazer/FocusEntity (Focus Entity)
 - [x] https://github.com/mgipson/AR-SwiftUI (Start AR View)
@@ -107,24 +122,24 @@ https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2
                 }
 ```
 
-### MapKit
+## MapKit
 - [x] https://www.hackingwithswift.com/books/ios-swiftui/integrating-mapkit-with-swiftui
 - [x] https://youtu.be/P6ZUiH1IZlQ
-
 
 Directions
 Marker
 YoutubeVideos:
 
-### Wordpress
+
+## Wordpress
 - [x] https://github.com/tkoehlerlg/SwiftUIWPArticleLoader
 
-### JSON / HTML Data
+## JSON / HTML Data
 - [x] https://github.com/azamsharp/AzamSharp-Weekly/tree/master/NetworkingSwiftUI
 - [x] https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning/blob/main/SwiftfulThinkingContinuedLearning/DownloadWithCombine.swift
 - [ ] https://github.com/scinfu/SwiftSoup
 
-### LaTeX / MathML
+## LaTeX / MathML
 - [x] https://github.com/dwarvesf/CodeViewer
 - [x] Using WebKit: https://stackoverflow.com/questions/65090289/how-can-i-create-a-math-formula-text-view-with-latex-in-swiftui?rq=1 
 - [ ] https://github.com/kostub/iosMath (no SwiftUI / Swift-Package)
@@ -135,10 +150,10 @@ YoutubeVideos:
 - [x] https://github.com/canbalkaya/TextField-for-Numbers-in-SwiftUI
 
 
-### UIKit and SwiftUI
+## UIKit and SwiftUI
 
 
-### ...
+## Usefull Libraries
 - [x] https://github.com/kieranb662/PartitionKit
 - [x] https://github.com/Jake-Short/swiftui-image-viewer
 - [x] https://github.com/ivanvorobei/SPPermissions
@@ -159,10 +174,15 @@ YoutubeVideos:
 - [x] https://github.com/spacenation/swiftui-grid
 
 
+
+
+
+
 - [x] https://trailingclosure.com/custom-swiftui-toggles/
 - [x] https://github.com/BLCKBIRDS?tab=repositories
 
-### Animations
+
+## Animations
 - [ ] https://github.com/Shubham0812/SwiftUI-Animations
 - [ ] https://github.com/amosgyamfi/swiftui-animation-library
 - [x] https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96 (https://github.com/airbnb/lottie-ios)
@@ -175,10 +195,8 @@ ToDo:
 - https://github.com/swiftui-lab/GridTrainer
 - https://github.com/swiftmumbai/chatkit
 - https://github.com/mythxn/DesignCode-SwiftUI
-
-https://github.com/Inncoder/SwiftUI-Animations
-
-https://github.com/younatics/MotionBook
+- https://github.com/Inncoder/SwiftUI-Animations
+- https://github.com/younatics/MotionBook
 
 
 
@@ -186,7 +204,7 @@ https://github.com/younatics/MotionBook
 - [ ] https://github.com/SAP/cloud-sdk-ios-fiori-ar/
 
 
-### Playgrounds // WWDC 2021 Swift Student Challenge Submissions
+## Playgrounds // WWDC 2021 Swift Student Challenge Submissions
 - [WWDC2021](https://github.com/devjoseadolfo/2021)
 - [CircuitPlay](https://github.com/devjoseadolfo/CircuitPlay)
 - [LearnWithAR](https://github.com/devjoseadolfo/LearnWithAR)
