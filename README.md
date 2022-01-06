@@ -174,6 +174,7 @@ YoutubeVideos:
 - [x] https://github.com/spacenation/swiftui-grid
 - [x] https://github.com/paololeonardi/WaterfallGrid
 - [x] https://github.com/danielsaidi/SwiftUIKit
+- [x] https://github.com/mecid/SwiftUICharts
 
 
 
