@@ -95,6 +95,7 @@ Offline / Online Resources
 - [ ] https://github.com/maxxfrazer/RealityKit-CardFlip
 - [ ] https://github.com/john-rocky/RealityKit-Sampler
 - [x] https://youtube.com/c/realityschool
+- [x] https://github.com/jVirus/ios-learning-materials/blob/main/Lists/ARKit.md
 
 
 - [ ] https://developer.apple.com/augmented-reality/quick-look/
