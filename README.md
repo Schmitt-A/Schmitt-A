@@ -93,6 +93,7 @@ Offline / Online Resources
 - [x] https://github.com/mgipson/AR-SwiftUI (Start AR View)
 - [x] https://rockyshikoku.medium.com/the-reference-book-of-realitykit-cf9babb86dd#c885
 - [x] https://www.gfrigerio.com/arkit-in-a-swiftui-app/ (https://github.com/gualtierofrigerio/SwiftUIARKit)
+- [x] https://github.com/eaallen/SwiftUIARExample
 - [ ] https://github.com/maxxfrazer/RealityKit-CardFlip
 - [ ] https://github.com/john-rocky/RealityKit-Sampler
 - [x] https://youtube.com/c/realityschool
