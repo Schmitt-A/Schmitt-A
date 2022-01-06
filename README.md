@@ -172,6 +172,7 @@ YoutubeVideos:
 - [x] https://github.com/nerdsupremacist/FancyScrollView
 - [x] https://github.com/aunnnn/MovingNumbersView
 - [x] https://github.com/spacenation/swiftui-grid
+- [x] https://github.com/paololeonardi/WaterfallGrid
 
 
 
