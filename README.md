@@ -3,30 +3,38 @@
 ### Basics
 - [ SwiftUI](https://developer.apple.com/tutorials/swiftui)
 - [ Sample Apps](https://developer.apple.com/tutorials/sample-apps)
+
 - [SwiftfulThinking](https://github.com/SwiftfulThinking) : [Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp), [Continued-Learning](https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning) and [Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)
 - [/twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift)
 - [/ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI)
 - [/vlondon/awesome-swiftui](https://github.com/vlondon/awesome-swiftui)
 - [/onmyway133/awesome-swiftui](https://github.com/onmyway133/awesome-swiftui)
+- [/raywenderlich/sui-materials](https://github.com/raywenderlich/sui-materials)
+- [/antranapp/SwiftUIMindBlowing](https://github.com/antranapp/SwiftUIMindBlowing)
+- [/Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)
+- [/chinsyo/awesome-swiftui](https://github.com/chinsyo/awesome-swiftui)
+- [/SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
+- [/Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
+- [/jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials)
+
+- [/bbaars/](https://github.com/bbaars/)
+- [/anupamchugh/](https://github.com/anupamchugh/)
+- [/john-rocky/](https://github.com/john-rocky/)
+- [/eren-celik/](https://github.com/eren-celik/)
+- [/twostraws/](https://github.com/twostraws/)
 
 
-https://github.com/raywenderlich/sui-materials
 
-
-https://github.com/bbaars
-https://github.com/antranapp/SwiftUIMindBlowing
-https://github.com/Jinxiansen/SwiftUI
-https://github.com/chinsyo/awesome-swiftui
 https://fuckingswiftui.com
-https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
-https://github.com/Juanpe/About-SwiftUI
-https://github.com/jVirus/ios-learning-materials
+
+
+
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
-https://github.com/anupamchugh
-https://github.com/john-rocky
+
+
 https://www.ralfebert.de/blog/
 
-https://github.com/eren-celik
+
 
 https://youtube.com/c/SeanAllen
 
@@ -43,6 +51,8 @@ https://www.reddit.com/r/SwiftUI/
 https://www.simpleswiftguide.com/archives/
 https://blckbirds.com/swiftui-tutorials/
 https://betterprogramming.pub/tagged/swiftui
+
+
 
 ### Parallax / Stretchy Header / Sticky Header
 https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
