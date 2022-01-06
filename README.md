@@ -30,18 +30,16 @@
 
 
 ## Links
-https://www.hackingwithswift.com/
-https://www.swiftbysundell.com/
-https://www.avanderlee.com/
-https://talk.objc.io/
-
-https://fuckingswiftui.com
-https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
-https://www.ralfebert.de/blog/
-
-https://www.simpleswiftguide.com/archives/
-https://blckbirds.com/swiftui-tutorials/
-https://betterprogramming.pub/tagged/swiftui
+- https://www.hackingwithswift.com/
+- https://www.swiftbysundell.com/
+- https://www.avanderlee.com/
+- https://talk.objc.io/
+- https://fuckingswiftui.com
+- https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+- https://www.ralfebert.de/blog/
+- https://www.simpleswiftguide.com/archives/
+- https://blckbirds.com/swiftui-tutorials/
+- https://betterprogramming.pub/tagged/swiftui
 
 ## Links (2)
 https://www.pointfree.co/
@@ -49,19 +47,17 @@ https://www.raywenderlich.com/
 https://www.bigmountainstudio.com
 https://codewithchris.com/
 
-
 ## Videos
 https://youtube.com/c/SeanAllen
 https://youtube.com/c/CredoAcademy
 https://www.youtube.com/c/CodeWithChris/
 
-
 ## Social Media
-Twitter: @twostraws, @johnsundell, @twannl, @DonnyWals, @pointfreeco, @rwenderlich
-Reddit: https://www.reddit.com/r/SwiftUI/
-Instagram
-Reddit
-TikTok
+- Twitter: @twostraws, @johnsundell, @twannl, @DonnyWals, @pointfreeco, @rwenderlich
+- Reddit: https://www.reddit.com/r/SwiftUI/
+- Instagram
+- Reddit
+- TikTok
 
 
 ---------------------------------------------------------------
@@ -69,8 +65,8 @@ TikTok
 # Resources
 
 ## Parallax / Stretchy Header / Sticky Header
-https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
-https://medium.com/swlh/swiftui-create-a-stretchable-header-with-parallax-scrolling-4a98faeeb262
+- https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
+- https://medium.com/swlh/swiftui-create-a-stretchable-header-with-parallax-scrolling-4a98faeeb262
 
 
 ## Hyperlinks
@@ -176,23 +172,20 @@ YoutubeVideos:
 
 
 
-
-
-
 - [x] https://trailingclosure.com/custom-swiftui-toggles/
 - [x] https://github.com/BLCKBIRDS?tab=repositories
 
 
 ## Animations
-- [ ] https://github.com/Shubham0812/SwiftUI-Animations
-- [ ] https://github.com/amosgyamfi/swiftui-animation-library
-- [x] https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96 (https://github.com/airbnb/lottie-ios)
+- [x] https://github.com/Shubham0812/SwiftUI-Animations
+- [x] https://github.com/amosgyamfi/swiftui-animation-library
+- [x] https://github.com/airbnb/lottie-ios [Medium](https://medium.com/swlh/how-to-use-lottie-animations-in-swiftui-caaf19944d96)
 - [x] https://github.com/swiftui-lab/swiftui-hero-animations
 - [x] https://github.com/raywenderlich/video-swa-materials
 - [x] https://github.com/GetStream/stream-swiftui-animations
 
 
-ToDo:
+## ToDo
 - https://github.com/swiftui-lab/GridTrainer
 - https://github.com/swiftmumbai/chatkit
 - https://github.com/mythxn/DesignCode-SwiftUI
