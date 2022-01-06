@@ -25,10 +25,8 @@
 - [/john-rocky/](https://github.com/john-rocky/)
 - [/eren-celik/](https://github.com/eren-celik/)
 - [/twostraws/](https://github.com/twostraws/)
-
-
-https://github.com/rohid-hub?tab=repositories&q=&type=&language=swift&sort=
-https://github.com/onevcat?tab=repositories&q=&type=&language=swift&sort=
+- [/rohid-hub/](https://github.com/rohid-hub/)
+- [/onevcat/](https://github.com/onevcat/)
 
 
 ## Links
