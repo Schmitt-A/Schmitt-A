@@ -29,6 +29,7 @@
 - [/rohid-hub/](https://github.com/rohid-hub/)
 - [/onevcat/](https://github.com/onevcat/)
 - https://github.com/rebeloper/NavigationKit
+- https://github.com/mrcflorian
 
 
 ## Links
@@ -43,6 +44,7 @@
 - https://blckbirds.com/swiftui-tutorials/
 - https://betterprogramming.pub/tagged/swiftui
 - https://rebeloper.com/blog
+- https://iosapptemplates.com/blog/
 
 ## Links (2)
 https://www.pointfree.co/
