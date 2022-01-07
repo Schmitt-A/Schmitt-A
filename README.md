@@ -3,6 +3,7 @@
 # Basics
 - [ SwiftUI](https://developer.apple.com/tutorials/swiftui)
 - [ Sample Apps](https://developer.apple.com/tutorials/sample-apps)
+- https://cs193p.sites.stanford.edu/
 
 ## Exampels
 - [SwiftfulThinking](https://github.com/SwiftfulThinking) : [Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp), [Continued-Learning](https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning) and [Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)
@@ -27,6 +28,7 @@
 - [/twostraws/](https://github.com/twostraws/)
 - [/rohid-hub/](https://github.com/rohid-hub/)
 - [/onevcat/](https://github.com/onevcat/)
+- https://github.com/rebeloper/NavigationKit
 
 
 ## Links
@@ -40,12 +42,16 @@
 - https://www.simpleswiftguide.com/archives/
 - https://blckbirds.com/swiftui-tutorials/
 - https://betterprogramming.pub/tagged/swiftui
+- https://rebeloper.com/blog
 
 ## Links (2)
 https://www.pointfree.co/
 https://www.raywenderlich.com/
 https://www.bigmountainstudio.com
 https://codewithchris.com/
+https://iosacademy.io/
+https://www.letsbuildthatapp.com/
+
 
 ## Videos
 https://youtube.com/c/SeanAllen
