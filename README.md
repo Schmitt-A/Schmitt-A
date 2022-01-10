@@ -45,6 +45,7 @@
 - https://betterprogramming.pub/tagged/swiftui
 - https://rebeloper.com/blog
 - https://iosapptemplates.com/blog/
+- https://sarunw.com/tags/swiftui/
 
 ## Links (2)
 https://www.pointfree.co/
@@ -59,6 +60,7 @@ https://www.letsbuildthatapp.com/
 https://youtube.com/c/SeanAllen
 https://youtube.com/c/CredoAcademy
 https://www.youtube.com/c/CodeWithChris/
+https://www.youtube.com/user/azamsharp/videos
 
 ## Social Media
 - Twitter: @twostraws, @johnsundell, @twannl, @DonnyWals, @pointfreeco, @rwenderlich
@@ -159,6 +161,7 @@ YoutubeVideos:
 
 
 ## Usefull Libraries
+- [x] Overview: https://dev.to/toni777772/awesome-swiftui-libraries-list-3agc
 - [x] https://github.com/kieranb662/PartitionKit
 - [x] https://github.com/Jake-Short/swiftui-image-viewer
 - [x] https://github.com/ivanvorobei/SPPermissions
@@ -196,6 +199,7 @@ YoutubeVideos:
 - [x] https://github.com/swiftui-lab/swiftui-hero-animations
 - [x] https://github.com/raywenderlich/video-swa-materials
 - [x] https://github.com/GetStream/stream-swiftui-animations
+- [x] https://github.com/Arvindcs/SwiftUI-Animation
 
 
 ## ToDo
