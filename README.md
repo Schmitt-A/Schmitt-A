@@ -28,9 +28,11 @@
 - [/twostraws/](https://github.com/twostraws/)
 - [/rohid-hub/](https://github.com/rohid-hub/)
 - [/onevcat/](https://github.com/onevcat/)
-- https://github.com/rebeloper/NavigationKit
-- https://github.com/mrcflorian
-
+- [/rebeloper/](https://github.com/rebeloper/)
+- [/mrcflorian/](https://github.com/mrcflorian/)
+- [/chFlorian/](https://github.com/chFlorian/)
+- [/apatronl/](https://github.com/apatronl/)
+- [/hashmi7917/](https://github.com/hashmi7917/)
 
 ## Links
 - https://www.hackingwithswift.com/
@@ -46,6 +48,8 @@
 - https://rebeloper.com/blog
 - https://iosapptemplates.com/blog/
 - https://sarunw.com/tags/swiftui/
+- https://www.devtechie.com
+- 
 
 ## Links (2)
 https://www.pointfree.co/
@@ -61,11 +65,12 @@ https://youtube.com/c/SeanAllen
 https://youtube.com/c/CredoAcademy
 https://www.youtube.com/c/CodeWithChris/
 https://www.youtube.com/user/azamsharp/videos
+https://www.youtube.com/c/AnthonyDesignCode/
 
 ## Social Media
 - Twitter: @twostraws, @johnsundell, @twannl, @DonnyWals, @pointfreeco, @rwenderlich
 - Reddit: https://www.reddit.com/r/SwiftUI/
-- Instagram
+- Instagram: https://www.instagram.com/iam_iosdev/
 - Reddit
 - TikTok
 
@@ -203,6 +208,7 @@ YoutubeVideos:
 - [x] https://github.com/raywenderlich/video-swa-materials
 - [x] https://github.com/GetStream/stream-swiftui-animations
 - [x] https://github.com/Arvindcs/SwiftUI-Animation
+- [x] https://github.com/victormac1
 
 
 ## ToDo
