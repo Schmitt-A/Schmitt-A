@@ -74,6 +74,9 @@ https://www.youtube.com/user/azamsharp/videos
 
 # Resources
 
+AdaptiveStack
+https://www.hackingwithswift.com/quick-start/swiftui/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class
+
 ## Parallax / Stretchy Header / Sticky Header
 - https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
 - https://medium.com/swlh/swiftui-create-a-stretchable-header-with-parallax-scrolling-4a98faeeb262
