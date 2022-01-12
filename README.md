@@ -193,6 +193,7 @@ YoutubeVideos:
 - [x] https://github.com/danielsaidi/SwiftUIKit
 - [x] https://github.com/mecid/SwiftUICharts
 - [x] https://github.com/xmartlabs/PagerTabStripView
+- [x] https://github.com/eggswift/ESTabBarController
 
 
 
