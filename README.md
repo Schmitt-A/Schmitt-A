@@ -35,6 +35,7 @@ https://www.swift.org/documentation/
 - [/chFlorian/](https://github.com/chFlorian/)
 - [/apatronl/](https://github.com/apatronl/)
 - [/hashmi7917/](https://github.com/hashmi7917/)
+- https://github.com/AJPicard913
 
 ## Links
 - https://www.hackingwithswift.com/
@@ -168,6 +169,14 @@ YoutubeVideos:
 
 
 ## UIKit and SwiftUI
+
+## JSON
+https://medium.com/@nutanbhogendrasharma/read-json-data-from-file-system-in-swiftui-d054662000e
+
+
+
+## Stacks
+https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views
 
 
 ## Usefull Libraries
