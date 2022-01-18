@@ -227,6 +227,7 @@ https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-vi
 - [x] https://github.com/mecid/SwiftUICharts
 - [x] https://github.com/xmartlabs/PagerTabStripView
 - [x] https://github.com/eggswift/ESTabBarController
+- [x] https://github.com/vGebs/SwiftUICam
 
 
 
@@ -243,6 +244,7 @@ https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-vi
 - [x] https://github.com/GetStream/stream-swiftui-animations
 - [x] https://github.com/Arvindcs/SwiftUI-Animation
 - [x] https://github.com/victormac1
+- [ ] https://github.com/Inncoder/SwiftUI-Animations
 
 
 ## ToDo
@@ -251,7 +253,10 @@ https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-vi
 - https://github.com/mythxn/DesignCode-SwiftUI
 - https://github.com/Inncoder/SwiftUI-Animations
 - https://github.com/younatics/MotionBook
-
+- https://github.com/mythxn/DesignCode-SwiftUI
+- https://github.com/rebeloper/NavigationKit
+- https://betterprogramming.pub/effortless-swiftui-camera-d7a74abde37e
+- 
 
 
 - [x] https://github.com/SAP/cloud-sdk-ios-fiori/ (with Errors)
