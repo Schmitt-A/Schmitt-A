@@ -202,6 +202,7 @@ https://jsonview.com/
 
 ## Array of Strings
 https://martinlasek.medium.com/swiftui-dynamic-list-identifiable-73c56215f9ff
+https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-dynamic-items
 
 
 ## Stacks
