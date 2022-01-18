@@ -21,6 +21,7 @@ https://www.swift.org/documentation/
 - [/SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 - [/Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 - [/jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials)
+- https://github.com/peterfriese/SwiftUI-Building-Components
 
 ## User
 - [/bbaars/](https://github.com/bbaars/)
@@ -203,6 +204,7 @@ https://jsonview.com/
 ## Array of Strings
 https://martinlasek.medium.com/swiftui-dynamic-list-identifiable-73c56215f9ff
 https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-dynamic-items
+https://peterfriese.dev/posts/swiftui-listview-part2/
 
 
 ## Stacks
