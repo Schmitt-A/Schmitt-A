@@ -178,6 +178,9 @@ https://medium.com/@nutanbhogendrasharma/read-json-data-from-file-system-in-swif
 ### Server
 https://www.ralfebert.de/swiftui/tutorials/urlsession-load-json-list-xcode12/
 https://www.hackingwithswift.com/example-code/strings/how-to-load-a-string-from-a-website-url (untested)
+https://youtu.be/MBCX1atOvdA
+https://youtu.be/9FriGMWIbdc
+
 
 ### Wordpress / Rest API
 https://theeventscalendar.com/knowledgebase/k/introduction-to-the-events-calendar-rest-api/
