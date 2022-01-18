@@ -174,6 +174,8 @@ YoutubeVideos:
 https://matteomanferdini.com/codable/
 ### Local
 https://medium.com/@nutanbhogendrasharma/read-json-data-from-file-system-in-swiftui-d054662000e
+https://www.ralfebert.de/ios/json-handling-in-swift/
+https://www.ralfebert.de/ios-app-entwicklung/swiftui-async-await-tutorial/
 
 ### Server
 https://www.ralfebert.de/swiftui/tutorials/urlsession-load-json-list-xcode12/
@@ -183,13 +185,20 @@ https://youtu.be/9FriGMWIbdc
 
 
 ### Wordpress / Rest API
+https://kinsta.com/de/blog/wordpress-rest-api/
 https://theeventscalendar.com/knowledgebase/k/introduction-to-the-events-calendar-rest-api/
 
 http://example.de/wp-json/tribe/events/v1/events
 https://example.de/wp-json/wp/v2/posts
 
-### JSON
+### JSON Files
+https://jsonplaceholder.typicode.com/posts
+https://www.hackingwithswift.com/samples/friendface.json
+
+### JSON Editor / Viewer
 https://app.quicktype.io/
+https://jsonviewer.app
+https://jsonview.com/
 
 
 
