@@ -200,7 +200,8 @@ https://app.quicktype.io/
 https://jsonviewer.app
 https://jsonview.com/
 
-
+## Array of Strings
+https://martinlasek.medium.com/swiftui-dynamic-list-identifiable-73c56215f9ff
 
 
 ## Stacks
