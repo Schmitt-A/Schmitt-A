@@ -53,7 +53,7 @@ https://www.swift.org/documentation/
 - https://iosapptemplates.com/blog/
 - https://sarunw.com/tags/swiftui/
 - https://www.devtechie.com
-- 
+- https://peterfriese.dev
 
 ## Links (2)
 https://www.pointfree.co/
