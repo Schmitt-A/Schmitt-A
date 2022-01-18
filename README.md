@@ -170,8 +170,24 @@ YoutubeVideos:
 
 ## UIKit and SwiftUI
 
-## JSON
+## JSON / Web Scraping / Local
+https://matteomanferdini.com/codable/
+### Local
 https://medium.com/@nutanbhogendrasharma/read-json-data-from-file-system-in-swiftui-d054662000e
+
+### Server
+https://www.ralfebert.de/swiftui/tutorials/urlsession-load-json-list-xcode12/
+https://www.hackingwithswift.com/example-code/strings/how-to-load-a-string-from-a-website-url (untested)
+
+### Wordpress / Rest API
+https://theeventscalendar.com/knowledgebase/k/introduction-to-the-events-calendar-rest-api/
+
+http://example.de/wp-json/tribe/events/v1/events
+https://example.de/wp-json/wp/v2/posts
+
+### JSON
+https://app.quicktype.io/
+
 
 
 
@@ -179,11 +195,17 @@ https://medium.com/@nutanbhogendrasharma/read-json-data-from-file-system-in-swif
 https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views
 
 
+
+
 ## Usefull Libraries
+### Permissions
+- [x] https://github.com/ivanvorobei/SPPermissions
+- [x] https://github.com/jevonmao/PermissionsSwiftUI
+
+### Order
 - [x] Overview: https://dev.to/toni777772/awesome-swiftui-libraries-list-3agc
 - [x] https://github.com/kieranb662/PartitionKit
 - [x] https://github.com/Jake-Short/swiftui-image-viewer
-- [x] https://github.com/ivanvorobei/SPPermissions
 - [x] https://github.com/ivanvorobei/SPConfetti
 - [x] https://github.com/ivanvorobei/SPAlert
 - [x] https://github.com/ivanvorobei/SPIndicator
