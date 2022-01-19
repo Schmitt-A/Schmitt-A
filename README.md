@@ -225,6 +225,9 @@ https://developer.apple.com/documentation/swiftui/font
 - [x] https://github.com/ivanvorobei/SPPermissions
 - [x] https://github.com/jevonmao/PermissionsSwiftUI
 
+### Navigation
+https://github.com/matteopuc/swiftui-navigation-stack
+
 ### Order
 - [x] Overview: https://dev.to/toni777772/awesome-swiftui-libraries-list-3agc
 - [x] https://github.com/kieranb662/PartitionKit
