@@ -209,6 +209,7 @@ https://peterfriese.dev/posts/swiftui-listview-part2/
 
 ## Stacks
 https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views
+https://developer.apple.com/documentation/swiftui/font
 
 
 
