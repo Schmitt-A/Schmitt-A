@@ -110,6 +110,7 @@ https://newbedev.com/how-do-i-use-sfsafariviewcontroller-with-swiftui
 
 WebKit
 Offline / Online Resources
+Twitter Feed: https://☕💻.ws/entries/embedding-twitter-in-swiftui/
 
 
 ## SceneKit
