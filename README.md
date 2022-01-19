@@ -86,7 +86,11 @@ https://www.youtube.com/c/AnthonyDesignCode/
 AdaptiveStack
 https://www.hackingwithswift.com/quick-start/swiftui/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class
 
-https://github.com/fermoya/CustomNavigations
+## Navigation
+- https://github.com/fermoya/CustomNavigations
+- https://blckbirds.com/post/how-to-navigate-between-views-in-swiftui-by-using-an-observableobject/ [/BLCKBIRDS/](https://github.com/BLCKBIRDS/How-to-navigate-in-SwiftUI)
+
+
 
 ## Parallax / Stretchy Header / Sticky Header
 - https://blckbirds.com/post/stretchy-header-and-parallax-scrolling-in-swiftui/
