@@ -10,7 +10,7 @@
 ## Exampels
 - [SwiftfulThinking](https://github.com/SwiftfulThinking) : [Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp), [Continued-Learning](https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning) and [Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)
 - [/twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift)
-
+----------------------------------------------------------------------------------
 - [/ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI)
 - [/vlondon/awesome-swiftui](https://github.com/vlondon/awesome-swiftui)
 - [/onmyway133/awesome-swiftui](https://github.com/onmyway133/awesome-swiftui)
@@ -21,8 +21,9 @@
 - [/SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 - [/Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 - [/jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials)
-- https://github.com/peterfriese/SwiftUI-Building-Components
-- https://github.com/LostMoa/SwiftUI-Code-Examples
+- [/peterfriese/SwiftUI-Building-Components](https://github.com/peterfriese/SwiftUI-Building-Components)
+- [/LostMoa/SwiftUI-Code-Examples](https://github.com/LostMoa/SwiftUI-Code-Examples)
+
 
 ## User
 - [/bbaars/](https://github.com/bbaars/)
@@ -37,9 +38,10 @@
 - [/chFlorian/](https://github.com/chFlorian/)
 - [/apatronl/](https://github.com/apatronl/)
 - [/hashmi7917/](https://github.com/hashmi7917/)
-- https://github.com/AJPicard913
+- [/AJPicard913/](https://github.com/AJPicard913/)
 
-## Links
+
+## Links (1)
 - https://www.hackingwithswift.com/
 - https://www.swiftbysundell.com/
 - https://www.avanderlee.com/
@@ -65,7 +67,6 @@ https://codewithchris.com/
 https://iosacademy.io/
 https://www.letsbuildthatapp.com/
 
-
 ## Videos
 https://youtube.com/c/SeanAllen
 https://youtube.com/c/CredoAcademy
@@ -74,14 +75,11 @@ https://www.youtube.com/user/azamsharp/videos
 https://www.youtube.com/c/AnthonyDesignCode/
 
 ## Social Media
-- Twitter: @twostraws, @johnsundell, @twannl, @DonnyWals, @pointfreeco, @rwenderlich
+- Twitter: @twostraws, @johnsundell, @twannl, @DonnyWals, @pointfreeco, @rwenderlich,..
 - Reddit: https://www.reddit.com/r/SwiftUI/
 - Instagram: https://www.instagram.com/iam_iosdev/
-- Reddit
-- TikTok
+- TikTok: 
 
-
----------------------------------------------------------------
 
 # Resources
 
@@ -125,19 +123,13 @@ Twitter Feed: https://☕💻.ws/entries/embedding-twitter-in-swiftui/
 - [x] https://rockyshikoku.medium.com/the-reference-book-of-realitykit-cf9babb86dd#c885
 - [x] https://www.gfrigerio.com/arkit-in-a-swiftui-app/ (https://github.com/gualtierofrigerio/SwiftUIARKit)
 - [x] https://github.com/eaallen/SwiftUIARExample
-- [ ] https://github.com/maxxfrazer/RealityKit-CardFlip
-- [ ] https://github.com/john-rocky/RealityKit-Sampler
 - [x] https://youtube.com/c/realityschool
 - [x] https://github.com/jVirus/ios-learning-materials/blob/main/Lists/ARKit.md
-
-
+- [ ] https://github.com/maxxfrazer/RealityKit-CardFlip
+- [ ] https://github.com/john-rocky/RealityKit-Sampler
 - [ ] https://developer.apple.com/augmented-reality/quick-look/
 - [ ] https://developer.apple.com/documentation/arkit/previewing_a_model_with_ar_quick_look
 - [ ] https://developer.apple.com/forums/thread/126377
-
-https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2
-
-
 - [ ] https://github.com/maxxfrazer/ARKit-FocusNode // Currently not working with Siwft Playgrounds 4 (Working sometimes // UIKit?)
 - [ ] https://betterprogramming.pub/how-to-use-a-swiftui-view-in-anarkit-scenekit-app-d6504d7b92d2
 - [ ] https://github.com/ynagatomo/ARQLSanta (but no *.rcproject Files in Swift Playgrounds 4)
@@ -153,10 +145,9 @@ https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2
 ## MapKit
 - [x] https://www.hackingwithswift.com/books/ios-swiftui/integrating-mapkit-with-swiftui
 - [x] https://youtu.be/P6ZUiH1IZlQ
-
-Directions
-Marker
-YoutubeVideos:
+- [ ] Directions
+- [ ] Marker
+- [ ] Videos
 
 
 ## Wordpress
@@ -181,18 +172,17 @@ YoutubeVideos:
 ## UIKit and SwiftUI
 
 ## JSON / Web Scraping / Local
-https://matteomanferdini.com/codable/
+- https://matteomanferdini.com/codable/
 ### Local
-https://medium.com/@nutanbhogendrasharma/read-json-data-from-file-system-in-swiftui-d054662000e
-https://www.ralfebert.de/ios/json-handling-in-swift/
-https://www.ralfebert.de/ios-app-entwicklung/swiftui-async-await-tutorial/
+- https://medium.com/@nutanbhogendrasharma/read-json-data-from-file-system-in-swiftui-d054662000e
+- https://www.ralfebert.de/ios/json-handling-in-swift/
+- https://www.ralfebert.de/ios-app-entwicklung/swiftui-async-await-tutorial/
 
 ### Server
-https://www.ralfebert.de/swiftui/tutorials/urlsession-load-json-list-xcode12/
-https://www.hackingwithswift.com/example-code/strings/how-to-load-a-string-from-a-website-url (untested)
-https://youtu.be/MBCX1atOvdA
-https://youtu.be/9FriGMWIbdc
-
+- https://www.ralfebert.de/swiftui/tutorials/urlsession-load-json-list-xcode12/
+- https://www.hackingwithswift.com/example-code/strings/how-to-load-a-string-from-a-website-url (untested)
+- https://youtu.be/MBCX1atOvdA
+- https://youtu.be/9FriGMWIbdc
 
 ### Wordpress / Rest API
 https://kinsta.com/de/blog/wordpress-rest-api/
@@ -202,25 +192,18 @@ http://example.de/wp-json/tribe/events/v1/events
 https://example.de/wp-json/wp/v2/posts
 
 ### JSON Files
-https://jsonplaceholder.typicode.com/posts
-https://www.hackingwithswift.com/samples/friendface.json
+- https://jsonplaceholder.typicode.com/posts
+- https://www.hackingwithswift.com/samples/friendface.json
 
 ### JSON Editor / Viewer
-https://app.quicktype.io/
-https://jsonviewer.app
-https://jsonview.com/
+- https://app.quicktype.io/
+- https://jsonviewer.app
+- https://jsonview.com/
 
 ## Array of Strings
-https://martinlasek.medium.com/swiftui-dynamic-list-identifiable-73c56215f9ff
-https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-dynamic-items
-https://peterfriese.dev/posts/swiftui-listview-part2/
-
-
-## Stacks
-https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views
-https://developer.apple.com/documentation/swiftui/font
-
-
+- https://martinlasek.medium.com/swiftui-dynamic-list-identifiable-73c56215f9ff
+- https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-dynamic-items
+- https://peterfriese.dev/posts/swiftui-listview-part2/
 
 
 ## Usefull Libraries
