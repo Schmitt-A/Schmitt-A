@@ -3,9 +3,9 @@
 # Basics
 - [ SwiftUI](https://developer.apple.com/tutorials/swiftui)
 - [ Sample Apps](https://developer.apple.com/tutorials/sample-apps)
-- https://cs193p.sites.stanford.edu/
+- [Stanford University's course CS193p](https://cs193p.sites.stanford.edu/)
+- [The Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
-https://www.swift.org/documentation/
 
 ## Exampels
 - [SwiftfulThinking](https://github.com/SwiftfulThinking) : [Bootcamp](https://github.com/SwiftfulThinking/SwiftUI-Bootcamp), [Continued-Learning](https://github.com/SwiftfulThinking/SwiftUI-Continued-Learning) and [Advanced-Learning](https://github.com/SwiftfulThinking/SwiftUI-Advanced-Learning)
