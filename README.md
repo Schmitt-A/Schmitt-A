@@ -259,8 +259,8 @@ https://github.com/matteopuc/swiftui-navigation-stack
 - [ ] https://github.com/Inncoder/SwiftUI-Animations
 
 ### Animation Tutorials
-
-https://betterprogramming.pub/animations-inside-a-scrollview-with-swiftui-3b550c18a442
+- https://gist.github.com/mageshsridhar/556fe1c303ba7aed4d26d0cc82e98a27
+- https://betterprogramming.pub/animations-inside-a-scrollview-with-swiftui-3b550c18a442
 
 
 
