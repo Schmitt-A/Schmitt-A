@@ -240,6 +240,7 @@ https://github.com/matteopuc/swiftui-navigation-stack
 - [x] https://github.com/xmartlabs/PagerTabStripView
 - [x] https://github.com/eggswift/ESTabBarController
 - [x] https://github.com/vGebs/SwiftUICam
+- [x] https://github.com/CodeSlicing/pure-swift-ui
 
 
 
