@@ -213,6 +213,7 @@ https://example.de/wp-json/wp/v2/posts
 
 ### Navigation
 https://github.com/matteopuc/swiftui-navigation-stack
+https://github.com/exyte/LiquidSwipe
 
 ### Order
 - [x] Overview: https://dev.to/toni777772/awesome-swiftui-libraries-list-3agc
