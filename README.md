@@ -277,6 +277,7 @@ https://github.com/exyte/LiquidSwipe
 - https://betterprogramming.pub/effortless-swiftui-camera-d7a74abde37e
 - 
 
+https://github.com/nemecek-filip/EKEventKit.Example
 
 - [x] https://github.com/SAP/cloud-sdk-ios-fiori/ (with Errors)
 - [ ] https://github.com/SAP/cloud-sdk-ios-fiori-ar/
