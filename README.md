@@ -58,6 +58,7 @@
 - https://www.devtechie.com
 - https://peterfriese.dev
 - https://www.cephalopod.studio/blog
+- https://www.fivestars.blog/articles/
 
 ## Links (2)
 https://www.pointfree.co/
